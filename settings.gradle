@@ -1,0 +1,2 @@
+rootProject.name = "HiAcsDemo"
+include ':app'
